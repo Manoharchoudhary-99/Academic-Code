@@ -1,0 +1,32 @@
+[
+    {
+        "RollNo": "301",
+        "Name": "Rahul",
+        "Branch": "Computer",
+        "Marks": "88"
+    },
+    {
+        "RollNo": "302",
+        "Name": "Priya",
+        "Branch": "IT",
+        "Marks": "92"
+    },
+    {
+        "RollNo": "303",
+        "Name": "Aman",
+        "Branch": "Mechanical",
+        "Marks": "76"
+    },
+    {
+        "RollNo": "304",
+        "Name": "Neha",
+        "Branch": "Electronics",
+        "Marks": "85"
+    },
+    {
+        "RollNo": "305",
+        "Name": "Vikram",
+        "Branch": "Civil",
+        "Marks": "79"
+    }
+]
